@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Michael Low</h1>
+<h1 align="center">Hola, I'm Mike 👋</h1>
 
 - 🔭 I’m currently working on **Building my portfolio**
 
